@@ -1,4 +1,5 @@
 ## Hi there 👋
+![typewriter](https://github.com/user-attachments/assets/a3c8fc9a-5816-41f1-8f96-6b0f4e623d7e)
 
 <!--
 **midhat-alkhateeb/midhat-alkhateeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
