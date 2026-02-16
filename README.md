@@ -1,6 +1,6 @@
 ![typewriter](https://github.com/user-attachments/assets/3c177c18-b5eb-47fc-812b-3a6637b76ae3)
 
-## 👋 Hi
+## 👋 About Me!
 I'm Midhat Alkhateeb, a passionate developer currently in my second year at the University at Buffalo. I am currently taking CSE 341 and CSE 331. Check out some of my previous personal/hackathon projects below!
 
 ## 💻 Tech Stack
