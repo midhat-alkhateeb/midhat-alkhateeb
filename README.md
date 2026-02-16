@@ -8,9 +8,7 @@ I'm Midhat Alkhateeb, a passionate developer currently in my second year at the 
 ## 🌐 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/midhat.alkhateeb/)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/midhat-alkhateeb-4b7bb51b8/)
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:midhat.alkhateeb@gmail.com)
 
 
