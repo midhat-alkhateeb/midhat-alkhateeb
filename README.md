@@ -24,6 +24,7 @@ I'm Midhat Alkhateeb, a passionate developer currently in my second year at the 
 [![Devpost](https://img.shields.io/badge/Devpost-000000?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/midhat-alkhateeb)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/midhat-alkhateeb-4b7bb51b8/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:midhatal@buffalo.edu)
+[![Website](https://img.shields.io/badge/Website-007ACC?style=for-the-badge&logo=web&logoColor=white)](https://midhat-alkhateeb.github.io/)
 
 
 
